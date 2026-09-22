@@ -1,0 +1,6 @@
+{
+  "name": "DiskWala Telegram Bot",
+  "description": "Telegram bot manager and link downloader for DiskWala and TeraBox URLs with live simulator, direct link resolver, and deployment code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
